@@ -1,0 +1,51 @@
+body {
+	margin: 0 auto;
+     background-image: url("library1.jpg");
+	 background-size: cover;
+	 color: white;
+	 font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 250px;
+	
+}
+.container img {
+	width: 120px;
+	height: 120px;
+	margin-top: -90px;
+	margin-bottom: 10px;
+	
+}
+.button {
+margin-top: 10px;
+	padding: 10px 30px;
+	border-radius: 10px;
+	background-color: #a59470;
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+}
+input[type="text"], input[type="number"]{
+	height: 25px;
+	width: 200px;
+	font-size: 18px;
+	margin: 0 auto;
+	margin-top: 10px;
+	border-radius: 10px;
+	margin-bottom: 30px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+a {
+     color: white;
+}
